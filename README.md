@@ -8,7 +8,7 @@ making it suitable for development and testing in Docker environments.
 
 ## Diagram
 
-![diagram image](public/vuejsapp.png)
+![diagram image](public/vuejsapp2.png)
 
 ---
 
