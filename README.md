@@ -8,7 +8,7 @@ making it suitable for development and testing in Docker environments.
 
 ## Diagram
 
-![diagram image](vuejsapp.png)
+![diagram image](public/vuejsapp.png)
 
 ---
 
@@ -43,12 +43,15 @@ docker build -t omda/vueapp:latest . --no-cache
 docker run -d -p 8083:8083 --name mycontainer omda/vueapp:latest
 ```
 
-## Feature Enhancement
-
-- Use multi-stage Docker builds to speed up builds and produce smaller, optimized images.
-
 ---
 
 ## Screenshot
 
-![image of running app](screeshot.png)
+- Running application
+  ![image of running app](public/screeshot.png)
+
+---
+
+- After Enhancement Image Build Size
+
+![image of enhanced build](public/enahnc.png)
