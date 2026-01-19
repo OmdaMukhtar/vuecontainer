@@ -6,6 +6,12 @@ making it suitable for development and testing in Docker environments.
 
 ---
 
+## Diagram
+
+![diagram image](vuejsapp.png)
+
+---
+
 ## Change Vit configuration
 
 - Configure Vite to listen on all interfaces (0.0.0.0) and use port 8083,
